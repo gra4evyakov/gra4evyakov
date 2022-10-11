@@ -1,6 +1,6 @@
 ![Header](https://github.com/gra4evyakov/gra4evyakov/blob/main/assets/image.png)
 
-About me
+## I'm a beginner frontend developer
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
