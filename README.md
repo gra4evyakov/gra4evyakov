@@ -12,4 +12,7 @@ About me
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![FireBase](https://img.shields.io/badge/-FireBase-090909?style=for-the-badge&logo=FireBase)
 
-Follow Me
+### Follow Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/yakov.grachev/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/grachevyakov)
